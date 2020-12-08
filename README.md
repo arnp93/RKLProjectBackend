@@ -1,5 +1,5 @@
 # RKLProjectBackend
-Formulario Dinamico para Empresa "RKL Intergral"
+Proyecto de "Formulario Dinamico" para la Empresa "RKL Intergral"
 
 Cualquiera persona puede crear formularios dinamicos, compartirlos con sus clientes para que lo rellenen y en su Panel puede ver todos los datos rellenados
 
